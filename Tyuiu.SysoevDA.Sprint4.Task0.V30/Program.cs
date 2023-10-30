@@ -57,6 +57,7 @@ namespace Tyuiu.SysoevDA.Sprint4.Task0.V30
 
             Console.WriteLine("Сумма четных элементов = " + ds.GetSumEvenArrEl(array));
             Console.ReadKey();
+
         }
     }
 }
